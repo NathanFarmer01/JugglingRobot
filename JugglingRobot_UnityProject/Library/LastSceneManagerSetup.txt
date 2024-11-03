@@ -1,5 +1,0 @@
-sceneSetups:
-- path: Assets/Scenes/Juggling Robot Scene.unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
