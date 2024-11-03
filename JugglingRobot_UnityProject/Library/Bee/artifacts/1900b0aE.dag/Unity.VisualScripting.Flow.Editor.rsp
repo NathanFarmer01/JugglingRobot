@@ -374,6 +374,7 @@
 -r:"C:/Program Files/Unity/Hub/Editor/6000.0.25f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Transactions.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/6000.0.25f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Xml.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/6000.0.25f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Xml.Linq.dll"
+-r:"C:/Users/neily/School/2024-2025/CS4644/JugglingRobot/ml-agents/com.unity.ml-agents/Plugins/Google.Protobuf_Packed.dll"
 -r:"C:/Users/neily/School/2024-2025/CS4644/JugglingRobot/ml-agents/com.unity.ml-agents/Plugins/ProtoBuffer/Grpc.Core.dll"
 -r:"C:/Users/neily/School/2024-2025/CS4644/JugglingRobot/ml-agents/com.unity.ml-agents/Plugins/System.IO.Abstractions.dll"
 -r:"C:/Users/neily/School/2024-2025/CS4644/JugglingRobot/ml-agents/com.unity.ml-agents/Plugins/System.IO.Abstractions.TestingHelpers.dll"

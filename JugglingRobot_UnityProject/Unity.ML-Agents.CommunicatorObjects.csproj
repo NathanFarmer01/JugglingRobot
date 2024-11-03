@@ -622,7 +622,7 @@
       <Private>False</Private>
     </Reference>
     <Reference Include="Google.Protobuf_Packed">
-      <HintPath>Library\PackageCache\com.unity.sentis\Editor\ONNX\Google.Protobuf_Packed.dll</HintPath>
+      <HintPath>C:\Users\neily\School\2024-2025\CS4644\JugglingRobot\ml-agents\com.unity.ml-agents\Plugins\Google.Protobuf_Packed.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="netstandard">

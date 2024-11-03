@@ -7,10 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.ML-Agents.Communicato
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.ML-Agents.Editor", "Unity.ML-Agents.Editor.csproj", "{DB4BA1CC-CEC5-2CBA-9D7E-613BF7A75E01}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{C8EBF531-A813-FEAE-5BBE-559E36A69265}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{A85C5C09-E464-8F8B-8355-034BD5AEDAE2}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,14 +25,6 @@ Global
 		{DB4BA1CC-CEC5-2CBA-9D7E-613BF7A75E01}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB4BA1CC-CEC5-2CBA-9D7E-613BF7A75E01}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB4BA1CC-CEC5-2CBA-9D7E-613BF7A75E01}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C8EBF531-A813-FEAE-5BBE-559E36A69265}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C8EBF531-A813-FEAE-5BBE-559E36A69265}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C8EBF531-A813-FEAE-5BBE-559E36A69265}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C8EBF531-A813-FEAE-5BBE-559E36A69265}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A85C5C09-E464-8F8B-8355-034BD5AEDAE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A85C5C09-E464-8F8B-8355-034BD5AEDAE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A85C5C09-E464-8F8B-8355-034BD5AEDAE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A85C5C09-E464-8F8B-8355-034BD5AEDAE2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
